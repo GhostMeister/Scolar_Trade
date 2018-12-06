@@ -1,0 +1,8 @@
+@import "compass";
+
+$primary: rgb(85, 142, 213);
+$secondary: rgb(2, 33, 98);
+$gray: lighten(#555555, 60%);
+
+@import "bootstrap";
+@import "custom";
